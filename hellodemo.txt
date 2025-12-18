@@ -1,5 +1,5 @@
 Hi this is my first page!!!
 Welcome to my git repository...
 Steps to follow:
-1. Create a git repo 
-2. Create a file in the local and push to the repo
+Create a git repo 
+Create a file in the local and push to the repo
