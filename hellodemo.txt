@@ -1,3 +1,5 @@
 Hi this is my first page!!!
 Welcome to my git repository...
-Create a repository and try to commit and push the file.
+Steps to follow:
+1. Create a git repo 
+2. Create a file in the local and push to the repo
