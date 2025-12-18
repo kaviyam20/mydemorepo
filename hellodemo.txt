@@ -3,3 +3,4 @@ Welcome to my git repository...
 Steps to follow:
 Create a git repository
 Create a file in the local and push to the repository
+Added HTML and CSS files in remote 
